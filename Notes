@@ -1,5 +1,6 @@
 Git GitHub Desktop
-Go to the website and clone the repo 
+Go to the website and clone the repo (I used the zip file thingy)
+Then you can go into the app on your computer and clone it by clicking the plus sign in the top lefthand corner, clicking clone, and finding the folder
 Then open the repo folder in visual studio 
 Edit and do a bunch of stuff
 Save and click the github thingy on the left side panel of visual studio to save to the desktop app
