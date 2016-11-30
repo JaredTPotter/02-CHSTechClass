@@ -8,13 +8,5 @@ seventh
 eighth
 nineth
 tenth
-<<<<<<< HEAD
 eleventh
 twelfth
-=======
-elev
-twe
-th
-f
-p'awpgopr'pgjparjgpkjrgnemvojwrhgorj;gnlanf'gpjrajgbdsogjjp'ngibdoinalsovaposengkjh9sdjvdlsh[rguw09rgkiopaejgiaig
->>>>>>> 9ccd37fde5f00b23ba0c865f034ef06a320b853a
