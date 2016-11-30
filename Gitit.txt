@@ -1,4 +1,18 @@
 This is my first line of code
 This is my number two
 And a third line of the codes!!!!
+<<<<<<< HEAD
 Four!!!!
+=======
+Four!!!!
+And Five!!!!!!
+HEHEHE SIX
+seven
+eigh
+nin
+te
+el
+tw
+th
+f
+>>>>>>> d1d6c78e90a5958c6b81e6b0dbe68d092706127c
