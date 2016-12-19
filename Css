@@ -1,0 +1,18 @@
+body {
+    background-color: pink;
+    color: emerald;
+}
+
+p1 {
+    font-style: italic;
+}
+
+li {
+    font-style: bold; 
+}
+
+.the-chosen-one {
+    height: 500px;
+    width: 500px; 
+    background-color: red; 
+}
